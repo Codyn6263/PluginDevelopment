@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 #include "AdvancedInteractions.h"
 
 #define LOCTEXT_NAMESPACE "FAdvancedInteractionsModule"

@@ -1,5 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
 using UnrealBuildTool;
 
 public class AdvancedInventorySystem : ModuleRules
@@ -25,7 +23,7 @@ public class AdvancedInventorySystem : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core",
+				"Core", "UMG",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
@@ -38,6 +36,7 @@ public class AdvancedInventorySystem : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"UMG"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
