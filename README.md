@@ -1,2 +1,3 @@
-# PluginDevelopment
- A repo meant to showcase plugins I've developed as a sort of expanding portfolio.
+# My Portfolio
+
+This repo serves as a project to showcase a variety of things I've worked on as a sort of expanding portfolio.
